@@ -1,15 +1,15 @@
 {
-  "carte": "30793",
-  "name": "Augustina",
+  "carte": "38978",
+  "name": "Stéphanie",
   "yesterday_date": "2026-09-06",
   "yesterday_date_pretty": "le 6 septembre 2026",
   "visits": [
     {
-      "etab_name": "Altitude by Garance",
-      "etab_slug": "altitude-by-garance",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/altitude-by-garance.jpg",
-      "visite_id": "v_53031d4dcba1",
-      "canton": "Vaud",
+      "etab_name": "Hôtel de Rougemont & Spa",
+      "etab_slug": "hotel-de-rougemont-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/hotel-de-rougemont-spa.jpg",
+      "visite_id": "v_4a6592277cca",
+      "canton": "Berne",
       "date_iso": "2026-09-06"
     }
   ],
