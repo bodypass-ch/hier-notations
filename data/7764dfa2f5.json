@@ -1,16 +1,16 @@
 {
   "carte": "36640",
   "name": "Matteo",
-  "yesterday_date": "2026-08-31",
-  "yesterday_date_pretty": "le 31 août 2026",
+  "yesterday_date": "2026-09-08",
+  "yesterday_date_pretty": "le 8 septembre 2026",
   "visits": [
     {
-      "etab_name": "Royal Savoy Hôtel & Spa",
-      "etab_slug": "royal-savoy-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/royal-savoy-hotel-spa.jpg",
-      "visite_id": "v_eaa160eb6398",
+      "etab_name": "Chalet Royalp Hôtel & Spa",
+      "etab_slug": "chalet-royalp-hotel-spa",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
+      "visite_id": "v_4851d986fc50",
       "canton": "Vaud",
-      "date_iso": "2026-08-31"
+      "date_iso": "2026-09-08"
     }
   ],
   "suggestions": [
@@ -26,14 +26,14 @@
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "LA VILLA DERMO-ESTHÉTIQUE by Lorella",
-      "etab_slug": "la-villa-dermo-esthetique-by-lorella",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-villa-dermo-esthetique-by-lorella.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/la-villa-dermo-esthetique-by-lorella/",
+      "etab_name": "Grand Hôtel du Lac",
+      "etab_slug": "grand-hotel-du-lac",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/grand-hotel-du-lac.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/grand-hotel-du-lac/",
       "canton": "Vaud",
-      "visites": 86,
+      "visites": 584,
       "note": "5/5",
-      "blurb": "La Villa Dermo-Esthétique by Lorella, duo Lorella et Orphane. Kobido avancé, technologies de régénération et esthétique médicale : l'art du mieux-vieillir.",
+      "blurb": "Le Grand Hôtel du Lac à Vevey, sur les rives du Léman aux portes de Lavaux. SPA Valmont au 2e étage : welcome suite, 3 cabines, hammam et sauna face au lac.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {

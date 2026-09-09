@@ -1,16 +1,16 @@
 {
   "carte": "38689",
   "name": "Alexandra",
-  "yesterday_date": "2026-08-29",
-  "yesterday_date_pretty": "le 29 août 2026",
+  "yesterday_date": "2026-09-08",
+  "yesterday_date_pretty": "le 8 septembre 2026",
   "visits": [
     {
-      "etab_name": "CJ Coiffure",
-      "etab_slug": "cj-coiffure",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/cj-coiffure.jpg",
-      "visite_id": "v_e05a3352d128",
-      "canton": "Vaud",
-      "date_iso": "2026-08-29"
+      "etab_name": "INTUITIVE JESS",
+      "etab_slug": "intuitive-jess",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/intuitive-jess.jpg",
+      "visite_id": "v_f2b1fe4d53ae",
+      "canton": "Genève",
+      "date_iso": "2026-09-08"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 734,
+      "visites": 736,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"

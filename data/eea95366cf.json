@@ -1,16 +1,16 @@
 {
   "carte": "34424",
   "name": "Rita",
-  "yesterday_date": "2026-09-03",
-  "yesterday_date_pretty": "le 3 septembre 2026",
+  "yesterday_date": "2026-09-08",
+  "yesterday_date_pretty": "le 8 septembre 2026",
   "visits": [
     {
-      "etab_name": "LA MAISON VALMONT – BONGENIE",
-      "etab_slug": "la-maison-valmont-lausanne",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/la-maison-valmont-lausanne.jpg",
-      "visite_id": "v_12fc5c9384c3",
+      "etab_name": "Swiss Aesthetica",
+      "etab_slug": "swiss-aesthetica",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/swiss-aesthetica.jpg",
+      "visite_id": "v_728ed149f0f9",
       "canton": "Vaud",
-      "date_iso": "2026-09-03"
+      "date_iso": "2026-09-08"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 734,
+      "visites": 736,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"

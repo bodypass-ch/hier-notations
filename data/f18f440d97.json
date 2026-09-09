@@ -1,14 +1,14 @@
 {
-  "carte": "37030",
-  "name": "Aleksandra",
+  "carte": "35257",
+  "name": "Laurence",
   "yesterday_date": "2026-09-08",
   "yesterday_date_pretty": "le 8 septembre 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty EPFL",
-      "etab_slug": "arte-beauty-epfl",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-epfl.jpg",
-      "visite_id": "v_50d5b426b6ed",
+      "etab_name": "Institut Kaori",
+      "etab_slug": "institut-kaori",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-kaori.jpg",
+      "visite_id": "v_41e2f3342f4a",
       "canton": "Vaud",
       "date_iso": "2026-09-08"
     }

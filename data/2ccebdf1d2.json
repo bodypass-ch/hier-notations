@@ -1,16 +1,16 @@
 {
   "carte": "36617",
   "name": "Olivia",
-  "yesterday_date": "2026-09-03",
-  "yesterday_date_pretty": "le 3 septembre 2026",
+  "yesterday_date": "2026-09-08",
+  "yesterday_date_pretty": "le 8 septembre 2026",
   "visits": [
     {
-      "etab_name": "SAKURA LAB",
-      "etab_slug": "sakura-lab",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/sakura-lab.jpg",
-      "visite_id": "v_eca568c923bf",
+      "etab_name": "Skin Solution",
+      "etab_slug": "skin-solution",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/skin-solution.jpg",
+      "visite_id": "v_ab9dd05c1b0e",
       "canton": "Genève",
-      "date_iso": "2026-09-03"
+      "date_iso": "2026-09-08"
     }
   ],
   "suggestions": [
@@ -20,20 +20,20 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/bv-institut.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/bv-institut/",
       "canton": "Genève",
-      "visites": 148,
+      "visites": 149,
       "note": "5/5",
       "blurb": "L'experte de l'épilation au fil à Carouge, formée au Maroc, en Malaisie et aux Émirats. Rehaussement de cils, sourcils, la Passion du Regard : la précision à l'œil.",
       "reason": "Nous pensons que vous allez aimer"
     },
     {
-      "etab_name": "LE CENTRE GENÈVE BY CHARLINE",
-      "etab_slug": "le-centre-geneve-by-charline",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/le-centre-geneve-by-charline.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/le-centre-geneve-by-charline/",
+      "etab_name": "Corps Sains",
+      "etab_slug": "corps-sains",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/corps-sains.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/corps-sains/",
       "canton": "Genève",
-      "visites": 130,
+      "visites": 145,
       "note": "5/5",
-      "blurb": "Le Centre Genève by Charline. Soins corps, esthétique, thérapies douces et accompagnement émotionnel sous un même toit, pour une beauté pensée comme équilibre intérieur.",
+      "blurb": "Le centre au quartier St-Gervais à Genève. Relooking, nutrithérapie et massages pour prendre soin du corps et de l'esprit en toute discrétion.",
       "reason": "À découvrir dans le canton de Genève"
     },
     {
