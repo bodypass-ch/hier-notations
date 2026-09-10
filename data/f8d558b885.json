@@ -1,16 +1,16 @@
 {
   "carte": "36578",
   "name": "Donia",
-  "yesterday_date": "2026-08-31",
-  "yesterday_date_pretty": "le 31 août 2026",
+  "yesterday_date": "2026-09-09",
+  "yesterday_date_pretty": "le 9 septembre 2026",
   "visits": [
     {
-      "etab_name": "Arte Beauty Lutry",
-      "etab_slug": "arte-beauty-lutry",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/arte-beauty-lutry.jpg",
-      "visite_id": "v_c12d5962fd87",
+      "etab_name": "MYO Style",
+      "etab_slug": "myo-style",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/myo-style.jpg",
+      "visite_id": "v_58055bfca4ab",
       "canton": "Vaud",
-      "date_iso": "2026-08-31"
+      "date_iso": "2026-09-09"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 734,
+      "visites": 736,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"

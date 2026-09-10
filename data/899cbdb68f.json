@@ -1,16 +1,16 @@
 {
   "carte": "38476",
   "name": "Léa",
-  "yesterday_date": "2026-08-30",
-  "yesterday_date_pretty": "le 30 août 2026",
+  "yesterday_date": "2026-09-09",
+  "yesterday_date_pretty": "le 9 septembre 2026",
   "visits": [
     {
-      "etab_name": "LES BAINS PUBLICS",
-      "etab_slug": "les-bains-publics",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-bains-publics.jpg",
-      "visite_id": "v_8fc049e12638",
-      "canton": "Valais",
-      "date_iso": "2026-08-30"
+      "etab_name": "Les Cliniques Matignon",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
+      "visite_id": "v_b0ae555e2520",
+      "canton": " ",
+      "date_iso": "2026-09-09"
     }
   ],
   "suggestions": [
@@ -20,7 +20,7 @@
       "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
       "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
       "canton": "Vaud",
-      "visites": 734,
+      "visites": 736,
       "note": "5/5",
       "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
       "reason": "Nous pensons que vous allez aimer"

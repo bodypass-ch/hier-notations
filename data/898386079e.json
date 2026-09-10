@@ -1,19 +1,30 @@
 {
-  "carte": "35190",
-  "name": "Valentine",
+  "carte": "38084",
+  "name": "Joëlle",
   "yesterday_date": "2026-09-09",
   "yesterday_date_pretty": "le 9 septembre 2026",
   "visits": [
     {
-      "etab_name": "Institut Osmose",
-      "etab_slug": "institut-osmose",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/institut-osmose.jpg",
-      "visite_id": "v_a4805aae7b52",
-      "canton": "Vaud",
+      "etab_name": "Les Cliniques Matignon",
+      "etab_slug": null,
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/les-cliniques-matignon--capsule-geneve-clinique-matignon.jpg",
+      "visite_id": "v_00640e007906",
+      "canton": " ",
       "date_iso": "2026-09-09"
     }
   ],
   "suggestions": [
+    {
+      "etab_name": "1er Acte Coiffure",
+      "etab_slug": "1er-acte-coiffure",
+      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/1er-acte-coiffure.jpg",
+      "etab_url_public": "https://www.bodypass.ch/etablissements/1er-acte-coiffure/",
+      "canton": "Vaud",
+      "visites": 736,
+      "note": "5/5",
+      "blurb": "Au cœur de Lausanne, le salon contemporain de Roberto et son équipe joue la tendance, le savoir-faire et le conseil sur-mesure, entre détente et identité.",
+      "reason": "Nous pensons que vous allez aimer"
+    },
     {
       "etab_name": "Atmosp'hair",
       "etab_slug": "atmosphair",
@@ -23,17 +34,6 @@
       "visites": 182,
       "note": "5/5",
       "blurb": "Le salon de Pully, calme et lumineux entre verdure et coteaux. Conseil personnalisé femmes et hommes, équipe en formation continue : la technique discrète.",
-      "reason": "Nous pensons que vous allez aimer"
-    },
-    {
-      "etab_name": "Chalet Royalp Hôtel & Spa",
-      "etab_slug": "chalet-royalp-hotel-spa",
-      "etab_photo_url": "https://passeport-bienetre.github.io/bodypass-assets/etablissements/chalet-royalp-hotel-spa.jpg",
-      "etab_url_public": "https://www.bodypass.ch/etablissements/chalet-royalp-hotel-spa/",
-      "canton": "Vaud",
-      "visites": 947,
-      "note": "5/5",
-      "blurb": "Le Spa by RoyAlp dans les alpes vaudoises. 1200 m², 6 cabines dont une suite duo, terrasse extérieure, soins Cellcosmet et Cinq Mondes : la cure d'oxygène signée.",
       "reason": "À découvrir dans le canton de Vaud"
     },
     {
